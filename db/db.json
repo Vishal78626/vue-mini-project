@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "Ex distinctio Fuga",
+      "email": "Dolores sunt blandit",
+      "password": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "name": "Minima illo quia qui",
+      "email": "Nulla voluptas quia ",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "vishal",
+      "email": "singhbadal992@gmail.com",
+      "password": "vishal123",
+      "id": 3
+    },
+    {
+      "name": "anial",
+      "email": "anila@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Noida",
+      "contact": 111
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "Gurgaon",
+      "contact": 222
+    },
+    {
+      "name": "Domin",
+      "address": "Ludhiana",
+      "contact": "333",
+      "id": 3
+    },
+    {
+      "name": "OM",
+      "address": "Namo",
+      "contact": "Shivay",
+      "id": 6
+    }
+  ]
+}
